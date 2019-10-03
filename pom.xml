@@ -17,11 +17,11 @@
   <distributionManagement>
 
 		<repository>
-			<id>Maven-release</id>
+			<id>artech</id>
 			<url>http://localhost:8081/nexus/content/repositories/artech/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Maven-snapshot</id>
+			<id>mrtechsnap</id>
 			<url>http://localhost:8081/nexus/content/repositories/mrtechsnap/</url>
 		</snapshotRepository>		
   </distributionManagement>
